@@ -4,7 +4,7 @@
     int age = int.Parse(Console.ReadLine());
     if (age > 13)
     {
-        Console.WriteLine("Вы успешно зарегистрированы!")
+        Console.WriteLine("Вы успешно зарегистрированы!");
     }
     else
     {
