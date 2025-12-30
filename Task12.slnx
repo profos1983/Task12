@@ -9,6 +9,10 @@
   <Folder Name="/Task13/">
     <Project Path="Task13_1_5/Task13_1_5.csproj" Id="3f061c0e-435d-4092-8c18-863003363180" />
     <Project Path="Task13_1_6/Task13_1_6.csproj" Id="b258d014-6c3f-4017-b364-15175708118c" />
-    <Project Path="Task3_1_1/Task3_1_1.csproj" Id="c1efe929-2ad3-4c6f-9b4c-1b9f7642cc28" />
+    <Project Path="Task13_2_5/Task13_2_5.csproj" Id="fc20bee7-c5a5-471d-847c-4aac704a1ea9" />
+    <Project Path="Task13_2_6/Task13_2_6.csproj" Id="6cf511de-0f29-4baa-a304-7f4b71eaa584" />
+    <Project Path="Task13_3_4/Task13_3_4.csproj" Id="8d92e022-9d8b-4ce1-bfc3-4ad55dbb88ca" />
+    <Project Path="Task13_3_5/Task13_3_5.csproj" Id="82c6a749-a61f-4752-8159-fb4746aa765a" />
+    <Project Path="Task3_1_1/Task13_1_1.csproj" Id="c1efe929-2ad3-4c6f-9b4c-1b9f7642cc28" />
   </Folder>
 </Solution>
